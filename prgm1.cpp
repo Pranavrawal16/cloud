@@ -753,6 +753,7 @@ void insertLocation(int& n, int a, int arr[MAX]){
   }
   else{
     cout<<"Code begins from here"<<endl;
+    cout<<"This is commited 2nd time"<<endl;
     //cout<<"Enter at which location do you want to insert the element: ";
     //cin>>loc;
     // Perform the desired operation
